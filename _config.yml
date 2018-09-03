@@ -1,5 +1,5 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: The bdverse
+description: A collection of packages for handling biodiversity data in R
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
