@@ -7,4 +7,14 @@ layout: default
     
 
 
-## why?
+## What is the bdverse?
+
+TBA
+
+## The vision
+
+TBA
+
+## Our goals
+
+TBA
