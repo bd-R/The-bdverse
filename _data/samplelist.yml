@@ -4,5 +4,17 @@ docs:
 - title: Introduction
   url: index.html
 
+- title: Main challenges
+  url: challenges.html
+  
+- title: Architecture
+  url: architecture.html
+  
+- title: Project overview
+  url: project-overview.html
+  
+- title: Future Plans
+  url: future-plans.html
+
 - title: The bdverse team
   url: the-bdverse-team.html
