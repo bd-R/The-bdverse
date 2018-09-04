@@ -1,12 +1,12 @@
 toc:
-  - title: Group 1
+  - title: Overview
     subfolderitems:
       - page: Thing 1
         url: /thing1.html
       - page: Thing 2
         url: /thing2.html
-      - page: Thing 3
-        url: /thing3.html
+      - page: the-bdverse-team
+        url: /the-bdverse-team.html
   - title: Group 2
     subfolderitems:
       - page: Piece 1
