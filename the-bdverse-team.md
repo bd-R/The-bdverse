@@ -4,9 +4,11 @@ layout: default
 
 # The bdverse team
 
+## Project PI
+
+
 ## Project lead
-Tomer Gueta
 
-_yay_
 
-[back](./)
+
+
