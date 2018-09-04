@@ -3,7 +3,7 @@ layout: default
 ---
 
  
-![The bdverse](assets/images/The-bdverse-no-line.png)
+![The bdverse](assets/images/The-bdverse-no-head.png)
     
 
 
