@@ -4,7 +4,7 @@ layout: default
 
 ## What is the bdverse?
 ![](assets/images/The-bdverse-no-head.png)
-The bdverse: a collection of packages that form a general framework for facilitating biodiversity science in R.
+A collection of packages that form a general framework for facilitating biodiversity science in R.
     
 
 ## Our vision

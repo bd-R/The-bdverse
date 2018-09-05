@@ -3,11 +3,7 @@ layout: default
 ---
 
 # The bdverse team
-
-## Project PI
-
-
-## Project lead
+![](assets/images/the-team.png)
 
 
 
