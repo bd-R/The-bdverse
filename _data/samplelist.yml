@@ -4,11 +4,12 @@ docs:
 - title: Introduction
   url: index.html
 
-- title: Main challenges
-  url: challenges.html
-  
+
 - title: Architecture
   url: architecture.html
+
+- title: Main challenges
+  url: challenges.html
   
 - title: Project overview
   url: project-overview.html
