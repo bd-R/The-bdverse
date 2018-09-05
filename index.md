@@ -20,3 +20,7 @@ To develop a sustainable infrastructure that bridge between all biodiversity dat
 * Harnessing the power of new, yet stable, R features. 
 * Enriching both the biodiversity research community and the R users community.
 
+## Fundings
+
+![](assets/images/ISF.png)
+![](assets/images/GSoC.png)
