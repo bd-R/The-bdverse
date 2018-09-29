@@ -7,14 +7,14 @@ docs:
 - title: Project overview
   url: project-overview.html
 
-- title: Architecture
-  url: architecture.html
+- title: bdDwC
+  url: bdDwC.html
 
-- title: Main challenges
-  url: challenges.html
+- title: bdchecks
+  url: bdchecks.html
   
-- title: Future Plans
-  url: future-plans.html
+- title: bdclean
+  url: bdclean.html
 
 - title: The bdverse team
   url: the-bdverse-team.html

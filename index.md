@@ -7,12 +7,12 @@ layout: default
 A collection of packages that form a general framework for facilitating biodiversity science in R.
     
 
-## Our vision
+## The vision
 
 To develop a sustainable infrastructure that bridge between all biodiversity data users and the R ecosystem, while promoting standardization and methodology being develop by the Biodiversity Informatics community. 
 
 
-## Our goals
+## Objective
 
 * Advancing user level data exploration and cleaning of biodiversity data in R.
 * Supporting users from a wide spectrum of programming capabilities.
