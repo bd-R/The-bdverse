@@ -4,15 +4,14 @@ docs:
 - title: Introduction
   url: index.html
 
+- title: Project overview
+  url: project-overview.html
 
 - title: Architecture
   url: architecture.html
 
 - title: Main challenges
   url: challenges.html
-  
-- title: Project overview
-  url: project-overview.html
   
 - title: Future Plans
   url: future-plans.html
