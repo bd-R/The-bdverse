@@ -12,7 +12,7 @@ A collection of packages that form a general framework for facilitating biodiver
 To develop a sustainable infrastructure that bridge between all biodiversity data users and the R ecosystem, while promoting standardization and methodology being develop by the Biodiversity Informatics community. 
 
 
-## Objective
+## Objectives
 
 * Advancing user level data exploration and cleaning of biodiversity data in R.
 * Supporting users from a wide spectrum of programming capabilities.
