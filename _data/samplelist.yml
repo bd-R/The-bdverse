@@ -16,5 +16,8 @@ docs:
 - title: bdclean
   url: bdclean.html
 
+- title: Getting your feedback
+  url: feedback.html
+
 - title: The bdverse team
   url: the-bdverse-team.html
