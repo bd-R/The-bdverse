@@ -6,7 +6,7 @@ layout: default
 
 <img src="assets/images/bdchecks_bdverse.png" alt="bdchecks in the bdverse" width="400"/>
 <a href="https://github.com/bd-R/bdchecks" target="_blank"><img src="assets/images/github_repo.png" alt="bdchecks GitHub repository" title= "Open bdchecks repository" width="90"/></a>
-   <a href="https://bd-r.github.io/bdchecks-guide/" target="_blank"><img src="assets/images/user_guide.png" alt="bdchecks user guide" title= "Open user guide" width="90"/></a>
+   <a href="https://bd-r.github.io/bdchecks-guide/" target="_blank"><img src="assets/images/user_guide.png" alt="bdchecks user guide" title= "Open the complete user guide" width="90"/></a>
 
 
 ## Overview
