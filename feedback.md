@@ -5,7 +5,7 @@ layout: default
 ## Getting your feedback
 The success of this project depends also on getting enough feedback. Since we're in *beta* phase any user assessment will be highly regarded. Help us help you :-)
 
-You're welcome to submit a GitHub issue on whatever you see fit, Here you can find **all our repositories**.  We also have simple and totally anonymous Google forms for getting feedback on each package:
+You're welcome to submit a GitHub issue on whatever you see fit, Here you can find **<a href="https://github.com/bd-R" target="_blank">all our repositories</a>**.  We also have simple and totally anonymous Google forms for getting feedback on each package:
 
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTDA4ff2odNVSctdpFJSMvADnr5j8TZ0GKo3UKml5laculzg/viewform?usp=pp_url" target="_blank">General Feedback on the `bdverse`</a>
 
