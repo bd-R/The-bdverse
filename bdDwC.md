@@ -13,7 +13,7 @@ The development of bdDwC was inspired by the <a href="http://kurator.acis.ufl.ed
 
 ## Architecture
 
-TBA
+[TBA]
 
 ## Main challenges
 
