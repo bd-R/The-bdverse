@@ -10,15 +10,15 @@ layout: default
 
 ## Overview
 
-TBA
+`bdclean` is a user-friendly data cleaning Shiny app for the inexperienced R user. It provides features to manage complete workflow for biodiversity data cleaning, from uploading the data; collecting user input - in order to adjust cleaning procedures; cleaning the data; and finally, generating various reports and several versions of the data.
 
 ## Architecture
 
-TBA
+[TBA]
 
 ## Main challenges
 
-TBA
+Tetesting on Shiny
 
 ## Future Plans
 
