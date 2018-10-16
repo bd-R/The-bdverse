@@ -19,13 +19,9 @@ In order for `bdclean` to truly be practical, several unique and challenging R c
 
 ## Main challenges
 
-Tetesting on Shiny
+* Continuous Integration (CI) is more challenging for `bdclean` as it highly depended on many R packages outside the `bdvers` and within the `bdverse`. 
+* `bdclean` is a complex Shiny app, comprehensive testing techniques for apps are more challenging.
 
 ## Future Plans
 
-TBA
-
-
-
-
-
+We invested considerable efforts on make `bdclean` easily customized, with intent to adjust `bdclean` to various research types. Right now the questionnaire and the cleaning procedures are  designed for researchers dealing with species distribution modeling, as biodiversity data is being highly utilized for SDMs. We hope that with the help of the Biodiversity Informatics community, we'll be able to adjust `bdclean` to various research domains, such as (i) alien and invasive species; (ii) collection data; (iii) agrobiodiversity; (iv) marine species; and (v) citizen science.
