@@ -9,6 +9,7 @@ layout: default
 
 ## Overview
 `bdDwC` is a R package that supplies an interactive Shiny app and a set of functions for standardizing field names in compliance to the Darwin Core (DwC) format. Running bdDwC enables you to carefully standardize all field names in your dataset – which allows the `bdverse` to handle data from various biodiversity portals seamlessly, and lets you enjoy all of its features, regardless of publishers variation in field names.
+The development of bdDwC was inspired by the [Kurator project](http://kurator.acis.ufl.edu/kurator-web/){target="_blank"} [Darwinizer tool](https://github.com/kurator-org/kurator-validation/wiki/CSV-File-Darwinizer), and utilize with
 
 ## Architecture
 
