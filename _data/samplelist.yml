@@ -4,19 +4,25 @@ docs:
 - title: Introduction
   url: index.html
 
-- title: Project overview
-  url: project-overview.html
+- title: bdclean
+  url: bdclean.html
 
 - title: bdDwC
   url: bdDwC.html
 
 - title: bdchecks
   url: bdchecks.html
-  
-- title: bdclean
-  url: bdclean.html
 
-- title: Getting feedback
+- title: bdvis
+  url: bdvis.html
+  
+- title: bdtools
+  url: bdtools.html
+
+- title: bdutilities
+  url: bdutilities.html
+
+- title: Give feedback
   url: feedback.html
 
 - title: The bdverse team
