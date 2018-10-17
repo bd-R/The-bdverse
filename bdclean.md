@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## bdclean: user level cleaning workflow for the inexperience R user.
+## bdclean: user level cleaning workflow for the inexperienced R user.
 
 <img src="assets/images/bdclean_bdverse.png" alt="bdclean in the bdverse" width="400"/>
 <a href="https://github.com/bd-R/bdclean" target="_blank"><img src="assets/images/github_repo.png" alt="bdclean GitHub repository" title= "Open bdclean repository" width="90"/></a>
