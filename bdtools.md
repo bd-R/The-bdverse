@@ -8,10 +8,10 @@ layout: default
    
 
 
-`bdtools` is still in its early development stage. We plan to incorporate the following elements in the second development phase of `bdverse`:
+`bdtools` is still in its early development stage. We plan to incorporate the following elements in the second development phase of the `bdverse`:
 
-* 'Getting to know your data' reports
-* Taxonomic workflows
+* 'Getting to know your data' reports.
+* Taxonomic workflows.
 * Outlier analysis for biodiversity data.
 
 
