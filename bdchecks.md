@@ -25,16 +25,10 @@ layout: default
 * Our main mission is to successfully implement all core suite of tests and assertions being developed by TDWG’s Biodiversity Data Quality 'Task Group 2: Data Quality Tests and Assertions'. Though `bdchecks` core is designed to match the test structure, developing and maintaining complete synchronization will be challenging.
 * Complete reproducibility is not yet implemented. We still need to figure out an ideal way to generate it. 
 
-
-## Future Plans
+## Future plans
 
 * Construct and test as many data checks as possible.
 * Enhance the UI and the overall documentation.
 * Implement a report that lists unsuccessful data checks and describes the errors. 
 * Develop a Shiny app for easy editing of the YAML file.
 * Explore different types of data checks, such as value-dependent checks.
-
-
-
-
-
