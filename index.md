@@ -28,7 +28,7 @@ To develop a **sustainable and agile** infrastructure that enhances the value of
 
 ## Development strategy
 
-Building and maintaining the bdverse is like building a ‘house of cards’, due to the massive dependencies between dozens of R packages. We bare this in mind going into any development task. 
+Building and maintaining the `bdverse` is like building a ‘house of cards’, due to the massive dependencies between dozens of R packages. We bare this in mind going into any development task. 
 
 **Our plans for the next few months, before officially lunching the `bdverse`**:
 
