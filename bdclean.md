@@ -22,4 +22,4 @@ In order for `bdclean` to truly be practical, several unique and challenging R c
 
 ## Future plans
 
-Right now, the questionnaire and the cleaning procedures are  designed for researchers dealing with species distribution modeling, as biodiversity data is being highly utilized for SDMs. with the help of the Biodiversity Informatics community, we plan to adjust `bdclean` to various other research domains, such as (i) alien and invasive species; (ii) collection data; (iii) agrobiodiversity; (iv) marine species; and (v) citizen science.
+Right now, the questionnaire and the cleaning procedures are  designed for researchers dealing with species distribution modeling (SDM), as biodiversity data is being highly utilized for SDMs. with the help of the Biodiversity Informatics community, we plan to adjust `bdclean` to various other research domains, such as (i) alien and invasive species; (ii) collection data; (iii) agrobiodiversity; (iv) marine species; and (v) citizen science.
