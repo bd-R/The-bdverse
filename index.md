@@ -32,7 +32,7 @@ Building and maintaining the bdverse is like building a ‘house of cards’, du
 
 **Our plans for the next few months, before officially lunching the `bdverse`**:
 
-* Our focal point for the near future is **QA+CI+GUI**. Our efforts will be focused on developing a robust quality assurance (QA) framework; implementing continuous integration (CI) across the `bdverse`, and enhance the GUI as much as possible.
+* Our focal point for the near future is **QA+CI+GUI**. Our efforts will be focused on developing a robust quality assurance (QA) framework; implementing continuous integration (CI) across the `bdverse`, and enhancing the GUI as much as possible.
 * We will construct the`bdverse` packcage, that will install all `bdverse` features using a single code line: `install.packages("bdverse")`.
 * We also hope to implement Shiny modules (trials will start soon).
 * We will upgrade the `bdverse` website, to better showcase the different `bdverse` features to users, and to give it a more sleek look.
