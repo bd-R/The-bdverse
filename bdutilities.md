@@ -3,7 +3,7 @@ layout: default
 ---
 ## bdutilities: bdverse supporting functionality
 
-<img src="assets/images/under_construction.png" alt="bdutilities is under construction" title= "bdutilities is under construction" width="120"/>
+<img src="assets/images/under_construction.png" alt="bdutilities is under construction" title= "bdutilities is under construction" width="90"/>
 <a href="https://github.com/bd-R/bdutilities" target="_blank"><img src="assets/images/github_repo.png" alt="bdutilities GitHub repository" title= "Open bdutilities repository" width="90"/></a>
    
 
