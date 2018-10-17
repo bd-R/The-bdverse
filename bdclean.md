@@ -17,7 +17,7 @@ In order for `bdclean` to truly be practical, several unique and challenging R c
 
 ## Major challenges ahead
 
-* Continuous Integration (CI) is more challenging for `bdclean` as it highly depended on many R packages outside the `bdvers` and within the `bdverse`. 
+* Continuous Integration (CI) is more challenging for `bdclean` as it highly depended on many R packages outside the `bdverse` and within the `bdverse`. 
 * `bdclean` is a complex Shiny app, comprehensive testing techniques for apps are more challenging.
 
 ## Future plans
