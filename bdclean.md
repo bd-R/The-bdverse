@@ -8,7 +8,7 @@ layout: default
    <a href="https://bd-r.github.io/bdclean-guide/" target="_blank"><img src="assets/images/user_guide.png" alt="bdclean user guide" title= "Open the complete user guide" width="120"/></a>
 
 
-`bdclean` is a user-friendly data cleaning Shiny app for the inexperienced R user. It provides features to manage complete workflow for biodiversity data cleaning, including data upload; user input - in order to adjust cleaning procedures; data cleaning; and finally, generation of various reports and versions of the data (flagged, and cleaned).
+`bdclean` is a user-friendly data cleaning [Shiny app](https://shiny.rstudio.com) for the inexperienced R user. It provides features to manage complete workflow for biodiversity data cleaning, including data upload; user input - in order to adjust cleaning procedures; data cleaning; and finally, generation of various reports and versions of the data (flagged, and cleaned).
 In order for `bdclean` to truly be practical, several unique and challenging R components were developed, such as a questionnaire module and high-quality report mechanism. Also, since `bdclean` was developed for the inexperienced R user, `bdclean` GUI is highly intuitive.
 
 
