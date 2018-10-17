@@ -15,7 +15,6 @@ In order for `bdclean` to truly be practical, several unique and challenging R c
 ## Architecture overview
 ![](assets/images/bdclean_architecture_overview.png)
 
-
 ## Major challenges ahead
 
 * Continuous Integration (CI) is more challenging for `bdclean` as it highly depended on many R packages outside the `bdvers` and within the `bdverse`. 

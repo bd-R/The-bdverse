@@ -3,8 +3,7 @@ layout: default
 ---
 ## bdtools: tools for biodiversity data exploration & analysis
 
-<img src="assets/images/under_construction.png" alt="bdtools is under construction" title= "bdtools is under construction" width="90"/>
-
+<img src="assets/images/under_construction.png" alt="bdtools is under construction" title= "bdtools is under construction" width="120"/>
 <a href="https://github.com/bd-R/bdtools" target="_blank"><img src="assets/images/github_repo.png" alt="bdtools GitHub repository" title= "Open bdtools repository" width="90"/></a>
    
 

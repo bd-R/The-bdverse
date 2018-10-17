@@ -4,7 +4,6 @@ layout: default
 ## bdvis: biodiversity data visualizations 
 
 <img src="assets/images/bdchecks_bdverse.png" alt="bdchecks in the bdverse" width="400"/>
-
 <a href="https://github.com/bd-R/bdvis" target="_blank"><img src="assets/images/github_repo.png" alt="bdvis GitHub repository" title= "Open bdvis repository" width="90"/></a>
 
 
