@@ -17,7 +17,7 @@ layout: default
 
 
 ## Architecture overview
-[TBA]
+![](assets/images/bdchecks_architecture_overview.png)
 
 
 ## Major challenges ahead
