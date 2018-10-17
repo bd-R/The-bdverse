@@ -21,12 +21,9 @@ The development of bdDwC was inspired by the <a href="http://kurator.acis.ufl.ed
 * Establishing and maintaining a robust workflow for feeding the Darwin Cloud - to address this issue, we'll consult key members of the biodiversity informatics community.
 * "Darwinizing" a dataset is a basic task for all `bdverse` tools and workflows, thus developing an intensive QA shell is in order.
 
-
-## Future Plans
+## Future plans
 
 * Enhance the UI.
 * Explore the idea of creating and maintaining a specific dictionary for each data publisher.
 * Experiment with fuzzy matching techniques, to generate suggestions for matching fields.
 * Explore techniques for enforcing recommended DwC vocabulary.
-
-
