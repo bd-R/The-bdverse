@@ -18,4 +18,9 @@ layout: default
 <a href="https://ecologylab.net.technion.ac.il/2015/01/20/tomer-gueta/" target="_blank"><img src="assets/images/homepage.png" alt="Tomer in the Carmel's Ecology Lab" title= "Tomer in theCarmel's Ecology Lab" width="30"/></a>
 <a href="mailto:tomer.gu@gmail.com" target="_blank"><img src="assets/images/mail.png" alt="Yohay Carmel Email" title= "Email Yohay" width="30"/></a>
 <a href="https://orcid.org/0000-0003-1557-8596" target="_blank"><img src="assets/images/ORCID.png" alt="Tomer Gueta ORCID ID" title= "ORCID: Tomer Gueta" width="30"/></a>
-<a href="https://github.com/tom-gu" target="_blank"><img src="assets/images/Github.png" alt="Tomer's GitHub profile" title= "Tomer Gueta on GitHub" width="30"/></a>
+<a href="https://github.com/tom-gu" target="_blank"><img src="assets/images/Github.png" alt="Tomer's GitHub profile" title= "Tomer Gueta on GitHub" width="35"/></a>
+
+**Povilas Gibas**
+<a href="mailto:povilasgibas@gmail.com " target="_blank"><img src="assets/images/mail.png" alt="Povilas Gibas Email" title= "Email Povilas" width="30"/></a>
+<a href="https://orcid.org/0000-0001-5311-6021" target="_blank"><img src="assets/images/ORCID.png" alt="Povilas Gibas ORCID ID" title= "ORCID: Povilas Gibas" width="30"/></a>
+<a href="https://github.com/PoGibas" target="_blank"><img src="assets/images/Github.png" alt="Povilas's GitHub profile" title= "Povilas Gibas on GitHub" width="35"/></a>
