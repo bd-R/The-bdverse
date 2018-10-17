@@ -7,7 +7,6 @@ layout: default
 A collection of packages that form a general framework for facilitating biodiversity science in R.
 
 ![](assets/images/The-bdverse-no-head.png)
-    
 ## Our vision
 
 To develop a **sustainable and agile** infrastructure that enhances the value of biodiversity data by allowing users to conveniently employ R, for data exploration, quality assessment, data cleaning, and standardization. 
