@@ -6,6 +6,9 @@ layout: default
 
 ![](assets/images/the-team.png)
 
+## Contact us
+
+**The bdverse Team**  
 
 
 
