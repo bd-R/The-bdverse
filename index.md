@@ -14,11 +14,10 @@ To develop a **sustainable and agile** infrastructure that enhances the value of
 
 ## Objectives
 
-* Advancing user level data exploration and cleaning of biodiversity data in R.
-* Supporting users with- and without programming capabilities.
-* Promoting implementation of biodiversity standards, methodology and tools being developed by the Biodiversity Informatics community.
-* Harnessing the power of new, yet stable, R features. 
-* Enriching both the biodiversity research community and the R users community.
+* To advance user level data exploration and cleaning of biodiversity data in R.
+* To support users with- and without programming capabilities.
+* To promote implementation of biodiversity standards, methodology and tools being developed by the Biodiversity Informatics community.
+* To enrich both the biodiversity research community and the R users community.
 
 
 ## Project timetable
@@ -30,7 +29,7 @@ To develop a **sustainable and agile** infrastructure that enhances the value of
 
 Building and maintaining the `bdverse` is like building a ‘house of cards’, due to the massive dependencies between dozens of R packages. We bare this in mind going into any development task. 
 
-**Our plans for the next few months, before officially lunching the `bdverse`**:
+**Our plans for the next few months, before officially launching the `bdverse`**:
 
 * Our focal point for the near future is **QA+CI+GUI**. Our efforts will be focused on developing a robust quality assurance (QA) framework; implementing continuous integration (CI) across the `bdverse`, and enhancing the GUI as much as possible.
 * We will construct the`bdverse` package, that will install all `bdverse` features using a single code line: `install.packages("bdverse")`.
