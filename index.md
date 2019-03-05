@@ -33,6 +33,7 @@ Building and maintaining the `bdverse` is like building a ‘house of cards’, 
 
 * Our focal point for the near future is **QA+CI+GUI**. Our efforts will be focused on developing a robust quality assurance (QA) framework; implementing continuous integration (CI) across the `bdverse`, and enhancing the GUI as much as possible.
 * We will construct the`bdverse` package, that will install all `bdverse` features using a single code line: `install.packages("bdverse")`.
+* We are working on submitting the released bdverse packages to [rOpenSci software review](https://ropensci.org/software-review/) as soon as the packages meet core requirements.
 * We also hope to implement Shiny modules (trials will start soon).
 * We will upgrade the `bdverse` website, to better showcase the different `bdverse` features to users, and to give it a more sleek look.
 
